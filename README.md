@@ -1,7 +1,11 @@
-# Amigo Secreto
+# ![titílo com letras brancas escrito "Amigo Secreto". Acompanha uma imagem com quatro mãos simbolizando amizade.](https://github.com/user-attachments/assets/a8a6618a-8e66-45a8-858e-2679f82faa3b)
 
 ## 🎯 Sobre
-Este projeto é uma aplicação web simples de Amigo Secreto, criada para ser utilizada em cursos de lógica de programação. O objetivo é criar uma lista de amigos e realizar o sorteio de um amigo secreto aleatoriamente.
+Este projeto é uma aplicação web simples.
+Desafio proposto pela equipe da Alura com o opjetivo de desenvolver nossa lógica em programação. Nele podemos criar uma lista de amigos e realizar um sorteio aleatório.
+
+![Página inicial do projeto](https://github.com/user-attachments/assets/89f3bf74-db5d-4db2-8fe3-f05114a0eb02)
+
 
 ## 💻 Tecnologias
 <div>
@@ -11,8 +15,12 @@ Este projeto é uma aplicação web simples de Amigo Secreto, criada para ser ut
 </div>
 
 ## 🚀 Funcionalidades
-- **Adicionar amigos:** Permite adicionar nomes de amigos à lista.
-- **Exibir lista de amigos:** A lista de amigos é atualizada dinamicamente na página.
+- **Adicionar e exibir lista de amigos:** Permite adicionar nomes à lista.
+  
+  ![Adicionando amigos a lista](https://github.com/user-attachments/assets/1bc7dfb6-1a3d-4b13-822e-563a8408ec3f)
+
 - **Sorteio aleatório:** Após adicionar amigos à lista, você pode sortear um amigo secreto.
 - **Resultado:** O nome do amigo sorteado é exibido na tela.
+- 
+- 
 - **Validação:** O sistema valida se o campo de entrada não está vazio antes de adicionar um amigo à lista e realiza o sorteio apenas se a lista não estiver vazia.
