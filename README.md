@@ -15,12 +15,13 @@ Desafio proposto pela equipe da Alura com o opjetivo de desenvolver nossa lógic
 </div>
 
 ## 🚀 Funcionalidades
-- **Adicionar e exibir lista de amigos:** Permite adicionar nomes à lista.
+- **Adicionar e exibir:** Permite adicionar nomes e visualizar sua lista.
   
   ![Adicionando amigos a lista](https://github.com/user-attachments/assets/1bc7dfb6-1a3d-4b13-822e-563a8408ec3f)
 
-- **Sorteio aleatório:** Após adicionar amigos à lista, você pode sortear um amigo secreto.
-- **Resultado:** O nome do amigo sorteado é exibido na tela.
-- 
-- 
-- **Validação:** O sistema valida se o campo de entrada não está vazio antes de adicionar um amigo à lista e realiza o sorteio apenas se a lista não estiver vazia.
+- **Validação:** O sistema valida se o campo de entrada não está vazio para adicionar o nome e realizar o sorteio e seguida.
+
+- **Sorteio aleatório:** Após adicionar amigos à lista, você pode sortear um nome que será exibido na tela.
+  
+  ![Amigo sorteado](https://github.com/user-attachments/assets/af6ac24d-e171-43ef-87ad-4e6c6c26f332)
+
